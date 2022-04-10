@@ -25,4 +25,4 @@
 # File User (user.csv)
 # File Game (game.csv)
 # File Riwayat (riwayat.csv)
-# File Kepemilikan (kepemilikan.csv)
+# File Kepemilikan (kepemilikan.csv
